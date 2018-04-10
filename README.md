@@ -102,7 +102,7 @@ Armor: Raise the player's armor by 3.
 Key: Key to unlock the bosses room.
 ```
 
-### Installing and Running the Program
+## Installing and Running the Program
 
 Compile the program with this command:
 
