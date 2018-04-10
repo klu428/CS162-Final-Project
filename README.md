@@ -15,7 +15,7 @@ K: Key
 
 Each combat between 2 characters ends when one of the characters die.
 
-Each round consists of two attacks, one for each character. For each attack, attacker and defender both generate dice rolls. The type and number of dice is listed above in the table.
+Each round consists of two attacks, one for each character. For each attack, attacker and defender both generate dice rolls. The type and number of dice for each character is listed below.
 
 The actual damage inflicted from the attacker onto the defender is calculated as follows:
 
