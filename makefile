@@ -10,8 +10,8 @@ SRCS = Objects.cpp Map.cpp Validation.cpp Spaces.cpp Game.cpp
 
 HEADERS = Objects.hpp Map.hpp Validation.hpp Spaces.hpp Game.hpp
 
-final: ${OBJS} ${HEADERS}
-	${CXX} ${OBJS} -o final
+rpg: ${OBJS} ${HEADERS}
+	${CXX} ${OBJS} -o rpg
 
 ${OBJS}: ${SRCS}
 	${CXX} ${CXXFLAGS} -c $(@:.o=.cpp)
@@ -22,4 +22,4 @@ clean:
 	rm Validation.o
 	rm Spaces.o
 	rm Game.o
-	rm final
+	rm rpg
