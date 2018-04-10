@@ -102,15 +102,7 @@ Armor: Raise the player's armor by 3.
 Key: Key to unlock the bosses room.
 ```
 
-### Notes
-
-    If Medusa uses “glare” on Harry Potter on his first life, 
-    then Harry Potter comes back to life after using “hogwarts”.
-    
-    If the Vampire’s “charm” ability activates when Medusa uses “glare”, 
-    the Vampire’s charm trumps Medusa’s glare.
-
-## Installing and Running the Program
+### Installing and Running the Program
 
 Compile the program with this command:
 
